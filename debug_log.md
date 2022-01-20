@@ -37,4 +37,12 @@ _Then I noticed another bug ..._
 
 ## Exercise 3
 
-[[Your answer goes here!]]
+1. installed packages and ran app
+1. err: list index outof range
+1. k wasnt interating, added k+=1 to both element left checks
+1. right side check is j not i indicated by the while condition
+1. copying data has wrong if condition, changed > to <
+1. merge sort works!
+1. binary search didnt have floor divide... FLOOR DIVIDE1!! AAAAAA!!
+1. while loop terminated early if low=high, low < high to low<=high
+1. good night
