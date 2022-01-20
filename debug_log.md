@@ -29,7 +29,11 @@ _Then I noticed another bug ..._
 
 ## Exercise 2
 
-[[Your answer goes here!]]
+1. installed packages and ran app
+1. submitted Oakland as city and celcius units. result: internal server error
+1. immediatly realized that request.args.get is asking for the wrong parameters so changed users_city to city and requested_units to units
+1. according to open weather map documentation 'place' isnt a parameter that could be inputted but 'q'
+1. context 'temperature' => 'temp'
 
 ## Exercise 3
 
